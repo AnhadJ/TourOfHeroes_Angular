@@ -1,5 +1,5 @@
 h2, h3 {
-    color: rgb(67, 95, 131);
+    color: rgb(30, 49, 73);
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
   }
@@ -11,7 +11,6 @@ span {
     font-weight: bold;
 }
 label {
-    display: inline-block;
     width: 3em;
     margin: .5em 0;
     color: #607D8B;
@@ -24,7 +23,7 @@ label {
   }
   button {
     margin-top: 20px;
-    font-family: Arial;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #eee;
     border: none;
     padding: 5px 10px;
