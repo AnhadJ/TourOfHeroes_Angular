@@ -48,3 +48,15 @@ h2 {
     margin-right: .8em;
     border-radius: 4px 0 0 4px;
   }
+  a{
+    text-decoration: none;
+    color: steelblue;
+  }
+  a:visited{
+    color: steelblue;
+  }
+  .heroes .delete{
+    background-color: white;
+    position: relative;
+    top: -4px;
+  }
